@@ -1,5 +1,5 @@
 {
-    "name": "lolautruche/payline-bundle",
+    "name": "suez/payline-bundle",
     "description": "Symfony integration for Payline payment system",
     "license": "MIT",
     "authors": [
